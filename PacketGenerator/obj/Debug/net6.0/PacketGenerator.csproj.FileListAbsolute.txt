@@ -1,0 +1,15 @@
+C:\Users\GRAVITY\Desktop\Workspace\C#\Server\PacketGenerator\bin\Debug\net6.0\PacketGenerator.exe
+C:\Users\GRAVITY\Desktop\Workspace\C#\Server\PacketGenerator\bin\Debug\net6.0\PacketGenerator.deps.json
+C:\Users\GRAVITY\Desktop\Workspace\C#\Server\PacketGenerator\bin\Debug\net6.0\PacketGenerator.runtimeconfig.json
+C:\Users\GRAVITY\Desktop\Workspace\C#\Server\PacketGenerator\bin\Debug\net6.0\PacketGenerator.dll
+C:\Users\GRAVITY\Desktop\Workspace\C#\Server\PacketGenerator\bin\Debug\net6.0\PacketGenerator.pdb
+C:\Users\GRAVITY\Desktop\Workspace\C#\Server\PacketGenerator\obj\Debug\net6.0\PacketGenerator.csproj.AssemblyReference.cache
+C:\Users\GRAVITY\Desktop\Workspace\C#\Server\PacketGenerator\obj\Debug\net6.0\PacketGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRAVITY\Desktop\Workspace\C#\Server\PacketGenerator\obj\Debug\net6.0\PacketGenerator.AssemblyInfoInputs.cache
+C:\Users\GRAVITY\Desktop\Workspace\C#\Server\PacketGenerator\obj\Debug\net6.0\PacketGenerator.AssemblyInfo.cs
+C:\Users\GRAVITY\Desktop\Workspace\C#\Server\PacketGenerator\obj\Debug\net6.0\PacketGenerator.csproj.CoreCompileInputs.cache
+C:\Users\GRAVITY\Desktop\Workspace\C#\Server\PacketGenerator\obj\Debug\net6.0\PacketGenerator.dll
+C:\Users\GRAVITY\Desktop\Workspace\C#\Server\PacketGenerator\obj\Debug\net6.0\refint\PacketGenerator.dll
+C:\Users\GRAVITY\Desktop\Workspace\C#\Server\PacketGenerator\obj\Debug\net6.0\PacketGenerator.pdb
+C:\Users\GRAVITY\Desktop\Workspace\C#\Server\PacketGenerator\obj\Debug\net6.0\PacketGenerator.genruntimeconfig.cache
+C:\Users\GRAVITY\Desktop\Workspace\C#\Server\PacketGenerator\obj\Debug\net6.0\ref\PacketGenerator.dll
